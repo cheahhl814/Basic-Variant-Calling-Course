@@ -15,11 +15,12 @@ This workshop is designed for undergraduate medical students to introduce some k
   
 - **Section 1: Basic Variant Calling Concepts and File Formats (15 minutes)**
   - Introduction to genetic variants.
+  - Significance of genetic variants.
+  - HTS worflow.
   - Overview of common file formats:
     - **FASTA/FASTQ** for raw sequences.
     - **SAM/BAM** for alignment data.
     - **VCF** for variant calls.
-  - Key terminologies (e.g., SNPs, indels).
 
 - **Section 2: GATK Demonstration (15 minutes)**
   - Brief introduction to GATK.

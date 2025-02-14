@@ -32,7 +32,7 @@ This workshop is designed for undergraduate medical students to introduce some b
 - **Section 3: Visualization Using IGV (20 minutes)**
   - Overview of IGV.
   - Hands-on session:
-    - Load custom genomic FASTA, annotation (GFF)files
+    - Load custom genomic FASTA and annotation (GFF) files
     - Load and explore the provided human VCF file (and optional BAM file).
     - Navigate the IGV interface, zoom, etc.
   - Discussion of how visualization aids in confirming variant calling results.
